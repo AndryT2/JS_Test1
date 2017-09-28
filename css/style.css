@@ -1,4 +1,22 @@
 #locationField {
     height: 20px;
-    margin-bottom: 2px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+
+#autocomplete {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    width: 40%;
+    height: 40px;
+}
+
+#tableweather {
+    margin: 50px 20px;
+}
+
+h1 {
+    font-size: 30px;
 }
